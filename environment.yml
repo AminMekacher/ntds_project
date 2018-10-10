@@ -1,4 +1,4 @@
-name: ntds_2018
+name: ntds_project
 channels:
   - conda-forge
   - defaults
