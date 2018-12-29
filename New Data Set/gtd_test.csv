@@ -1,0 +1,128 @@
+eventid,iyear,imonth,iday,approxdate,extended,resolution,country,country_txt,region,region_txt,provstate,city,latitude,longitude
+199705180003,1997,5,18,,1,11/14/1997,45,Colombia,3,South America,Santander,Bucaramanga,7.116294,-73.120026
+199705180004,1997,5,18,,0,,45,Colombia,3,South America,Antioquia,Unknown,7.198606,-75.341218
+199705190001,1997,5,19,,0,,110,Lebanon,10,Middle East & North Africa,South,Naqoura,33.11829,35.139866
+199705190002,1997,5,19,,0,,159,Peru,3,South America,Lima,Lima,-11.967368,-76.978462
+199705190003,1997,5,19,,0,,45,Colombia,3,South America,Cesar,San Diego district,10.333818,-73.181276
+199705190004,1997,5,19,,0,,45,Colombia,3,South America,Bogota,Bogota,4.667128,-74.106056
+199705200001,1997,5,20,,0,,109,Latvia,9,Eastern Europe,Riga,Riga,56.946203,24.104287
+199705200002,1997,5,20,,0,,153,Pakistan,6,South Asia,Sindh,Karachi,24.891115,67.143311
+199705200003,1997,5,20,,0,,159,Peru,3,South America,Lima,Lima,-11.967368,-76.978462
+199705200004,1997,5,20,,0,,159,Peru,3,South America,Lima,Lima,-11.967368,-76.978462
+199705200005,1997,5,20,,0,,8,Angola,11,Sub-Saharan Africa,Huambo,Vila Nova,-12.638615,16.039174
+199705200006,1997,5,20,,0,,45,Colombia,3,South America,Cordoba,San Pelayo district,8.95778,-75.83766
+199705200007,1997,5,20,,0,,45,Colombia,3,South America,Bogota,Bogota,4.667128,-74.106056
+199705210001,1997,5,21,,0,,92,India,6,South Asia,Manipur,Thoubal district,24.644924,93.99929
+199705210002,1997,5,21,,0,,92,India,6,South Asia,Unknown,Wangehuk,,
+199705210003,1997,5,21,,0,,34,Burundi,11,Sub-Saharan Africa,Rutana,Rutana,-3.923747,29.989884
+199705210004,1997,5,21,,0,,34,Burundi,11,Sub-Saharan Africa,Bujumbura Mairie,Bujumbura,-3.375828,29.364107
+199705210005,1997,5,21,,1,6/8/1997,45,Colombia,3,South America,Norte de Santander,La Gabarra district,8.998496,-72.897243
+199705210006,1997,5,21,,0,,45,Colombia,3,South America,Bolivar,San Estanislao,10.39841,-75.14921
+199705220001,1997,5,22,,0,,130,Mexico,1,North America,Guerrero,Chilpancingo,17.551547,-99.500648
+199705220002,1997,5,22,,0,,138,Myanmar,5,Southeast Asia,Kayah,Loikaw,19.674167,97.209167
+199705220003,1997,5,22,,0,,6,Algeria,10,Middle East & North Africa,Blida,Boufarik,36.57412,2.91214
+199705230001,1997,5,23,,0,,217,United States,1,North America,Oregon,Portland,45.511795,-122.675629
+199705250001,1997,5,25,,0,,96,Ireland,8,Western Europe,Louth,Dundalk,53.993847,-6.396594
+199705250002,1997,5,25,,0,,153,Pakistan,6,South Asia,Sindh,Karachi,24.891115,67.143311
+199705250003,1997,5,25,,0,,153,Pakistan,6,South Asia,Sindh,Karachi,24.891115,67.143311
+199705250004,1997,5,25,,0,,153,Pakistan,6,South Asia,Sindh,Karachi,24.891115,67.143311
+199705250005,1997,5,25,,0,,45,Colombia,3,South America,Bogota,Bogota,4.667128,-74.106056
+199705250006,1997,5,25,,0,,45,Colombia,3,South America,Risaralda,Guatica,5.315511,-75.800565
+199705250007,1997,5,25,,0,,45,Colombia,3,South America,Huila,Acevedo,1.804883,-75.89077
+199705250008,1997,5,25,,0,,69,France,8,Western Europe,Corsica,Bastia,42.699997,9.447317
+199705250009,1997,5,25,,0,,69,France,8,Western Europe,Corsica,Ajaccio,41.930607,8.742907
+199705250010,1997,5,25,,0,,75,Germany,8,Western Europe,Schleswig-Holstein,Lubeck,53.869563,10.687579
+199705250011,1997,5,25,,0,,69,France,8,Western Europe,Corsica,Bastia,42.699997,9.447317
+199705260001,1997,5,26,,0,,160,Philippines,5,Southeast Asia,Sulu,Jolo,6.050458,121.012245
+199705260002,1997,5,26,,0,,160,Philippines,5,Southeast Asia,Sulu,Jolo,6.050458,121.012245
+199705260003,1997,5,26,,0,,167,Russia,9,Eastern Europe,Moscow,Moscow,55.751377,37.579914
+199705260004,1997,5,26,,0,,6,Algeria,10,Middle East & North Africa,Mascara,Djabara,35.4025,0.21735
+199705260005,1997,5,26,,0,,45,Colombia,3,South America,Magdalena,La Poza,11.278611,-73.871944
+199705270001,1997,5,27,,0,,93,Indonesia,5,Southeast Asia,East Timor,Baucau,-8.46643,126.449704
+199705270002,1997,5,27,,0,,130,Mexico,1,North America,Guerrero,Atoyac de Alvarez district,17.311791,-100.298095
+199705270003,1997,5,27,,0,,159,Peru,3,South America,Lima,Lima,-11.967368,-76.978462
+199705270004,1997,5,27,,0,,159,Peru,3,South America,La Libertad,Buldibuyo,-8.127068,-77.395273
+199705270005,1997,5,27,,0,,159,Peru,3,South America,Lima,Lima,-11.967368,-76.978462
+199705270006,1997,5,27,,0,,160,Philippines,5,Southeast Asia,Lanao del Sur,Marawi,8.004674,124.2913
+199705280001,1997,5,28,,0,,92,India,6,South Asia,Jammu and Kashmir,Srinagar,34.08374,74.789902
+199705280002,1997,5,28,,0,,92,India,6,South Asia,Assam,Unknown,26.200605,92.937574
+199705280003,1997,5,28,,0,,93,Indonesia,5,Southeast Asia,Unknown,Unknown,,
+199705280004,1997,5,28,,0,,93,Indonesia,5,Southeast Asia,East Timor,Baucau,-8.46643,126.449704
+199705280005,1997,5,28,,0,,93,Indonesia,5,Southeast Asia,East Timor,Baucau,-8.46643,126.449704
+199705280006,1997,5,28,,0,,93,Indonesia,5,Southeast Asia,East Timor,Baucau,-8.46643,126.449704
+199705280007,1997,5,28,,0,,93,Indonesia,5,Southeast Asia,East Timor,Baucau,-8.46643,126.449704
+199705280008,1997,5,28,,0,,93,Indonesia,5,Southeast Asia,East Timor,Dili,-8.54966,125.566599
+199705280009,1997,5,28,,0,,153,Pakistan,6,South Asia,Sindh,Karachi,24.891115,67.143311
+199705280010,1997,5,28,,0,,167,Russia,9,Eastern Europe,Dagestan,Makhachkala,42.98542,47.450668
+199705280011,1997,5,28,,0,,36,Cambodia,5,Southeast Asia,Phnom Penh,Phnom Penh,11.558831,104.917445
+199705280012,1997,5,28,,0,,43,Chile,3,South America,Santiago Metropolitan,Santiago,-33.366238,-70.505302
+199705280013,1997,5,28,,0,,45,Colombia,3,South America,Bolivar,Cartagena,10.413711,-75.533549
+199705280014,1997,5,28,,0,,45,Colombia,3,South America,Santander,Puente Sogamoso,7.245534,-73.784557
+199705280015,1997,5,28,,0,,78,Greece,8,Western Europe,Attica,Piraeus,37.942843,23.646916
+199705290001,1997,5,29,,0,,159,Peru,3,South America,Lima,Lima,-11.967368,-76.978462
+199705290002,1997,5,29,,0,,217,United States,1,North America,Arkansas,Fort Smith,35.3846,-94.421299
+199705290003,1997,5,29,,0,,6,Algeria,10,Middle East & North Africa,Unknown,Fizane,,
+199705290004,1997,5,29,,0,,6,Algeria,10,Middle East & North Africa,Boumerdes,Boumerdes,36.76029,3.472395
+199705290005,1997,5,29,,0,,6,Algeria,10,Middle East & North Africa,Chlef,Chlef,36.16525,1.33452
+199705290006,1997,5,29,,0,,6,Algeria,10,Middle East & North Africa,Medea,Medea,36.266667,2.75
+199705290007,1997,5,29,,0,,6,Algeria,10,Middle East & North Africa,Unknown,Chenus,,
+199705290008,1997,5,29,,0,,45,Colombia,3,South America,Norte de Santander,Aeropuerto de Cucuta,7.927696,-72.508479
+199705290009,1997,5,29,,0,,69,France,8,Western Europe,Aquitaine,Saint-Jean-de-luz,43.388051,-1.663055
+199705300001,1997,5,30,,0,,104,Kenya,11,Sub-Saharan Africa,Coast,Mombasa,-4.041179,39.677612
+199705300002,1997,5,30,,0,,159,Peru,3,South America,Lima,Lima,-11.967368,-76.978462
+199705300003,1997,5,30,,0,,200,Syria,10,Middle East & North Africa,Quneitra,Golan Heights district,33.181493,35.933529
+199705300004,1997,5,30,,0,,6,Algeria,10,Middle East & North Africa,Unknown,Bakura,,
+199705300005,1997,5,30,,0,,45,Colombia,3,South America,Antioquia,Remedios,7.07786,-74.70355
+199705300006,1997,5,30,,0,,45,Colombia,3,South America,Cesar,La Gloria,8.601686,-73.608184
+199705300007,1997,5,30,,0,,59,Ecuador,3,South America,Guayas,Guayaquil,-2.170832,-79.922359
+199705310001,1997,5,31,,0,,93,Indonesia,5,Southeast Asia,Jakarta,Jakarta,-6.312279,106.784433
+199705310002,1997,5,31,,0,,130,Mexico,1,North America,Guerrero,San Luis de la Loma,17.26988,-100.89231
+199705310003,1997,5,31,,0,,153,Pakistan,6,South Asia,Sindh,Karachi,24.891115,67.143311
+199705310004,1997,5,31,,0,,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Ramallah,31.907141,35.198219
+199705310005,1997,5,31,,0,,182,Somalia,11,Sub-Saharan Africa,Bay,Baidoa,3.115641,43.64658
+199705310006,1997,5,31,,0,,6,Algeria,10,Middle East & North Africa,Algiers,Algiers,36.763763,3.055413
+199705310007,1997,5,31,,0,,36,Cambodia,5,Southeast Asia,,Sihanoukville,10.614029,103.529517
+199705310008,1997,5,31,,0,,45,Colombia,3,South America,Antioquia,Bello district,6.34053,-75.562227
+199705310009,1997,5,31,,0,,45,Colombia,3,South America,Putumayo,Mocoa,1.14661,-76.64812
+199705310010,1997,5,31,,0,,45,Colombia,3,South America,Narino,Cumbal,0.908611,-77.791389
+199706010001,1997,6,1,,1,6/3/1997,157,Papua New Guinea,12,Australasia & Oceania,Bougainville,Tinputz,-5.55014,155.007525
+199706010002,1997,6,1,,0,,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059819,45.326115
+199706010003,1997,6,1,,0,,209,Turkey,10,Middle East & North Africa,Sirnak,Cizre,37.33083,42.184602
+199706010004,1997,6,1,,0,,6,Algeria,10,Middle East & North Africa,Algiers,Algiers,36.763763,3.055413
+199706010005,1997,6,1,,0,,26,Bolivia,3,South America,La Paz,La Paz,-16.509317,-68.10434
+199706010006,1997,6,1,,0,,45,Colombia,3,South America,Cesar,Unknown,9.337295,-73.653621
+199706010007,1997,6,1,,0,,45,Colombia,3,South America,Cundinamarca,La Vega,4.99936,-74.33936
+199706010008,1997,6,1,,0,,45,Colombia,3,South America,Antioquia,Medellin,6.242026,-75.564766
+199706010009,1997,6,1,,0,,45,Colombia,3,South America,Antioquia,Medellin,6.242026,-75.564766
+199706010010,1997,6,1,,0,,45,Colombia,3,South America,Antioquia,Medellin,6.242026,-75.564766
+199706010011,1997,6,1,,0,,69,France,8,Western Europe,Provence-Alpes-Cote d'Azur,Marseilles,43.296482,5.36978
+199706010012,1997,6,1,,0,,83,Guatemala,2,Central America & Caribbean,Unknown,On Inter-American highway,,
+199706010013,1997,6,1,,0,,603,United Kingdom,8,Western Europe,Northern Ireland,Ballymoney,55.071136,-6.513154
+199706020001,1997,6,2,,0,,159,Peru,3,South America,Callao,Callao,-12.050981,-77.125985
+199706020003,1997,6,2,,0,,5,Albania,9,Eastern Europe,Tirana,Tirana,41.3275,19.818889
+199706020004,1997,6,2,,0,,6,Algeria,10,Middle East & North Africa,Algiers,Algiers,36.763763,3.055413
+199706020006,1997,6,2,,0,,11,Argentina,3,South America,Buenos Aires,Buenos Aires,-34.61768,-58.444435
+199706020007,1997,6,2,,1,6/6/1997,45,Colombia,3,South America,Antioquia,Buritica,6.719613,-75.907029
+199706020008,1997,6,2,,0,,45,Colombia,3,South America,Antioquia,Uramita,6.898522,-76.17332
+199706020009,1997,6,2,,0,,74,Georgia,7,Central Asia,Abkhazia,Gali district,42.615404,41.71987
+199706030001,1997,6,3,,0,,92,India,6,South Asia,Jammu and Kashmir,Srinagar,34.08374,74.789902
+199706030002,1997,6,3,,0,,160,Philippines,5,Southeast Asia,Metropolitian Manila,Manila,14.596051,120.978666
+199706030003,1997,6,3,,0,,185,Spain,8,Western Europe,Andalusia,Granada,37.176487,-3.597929
+199706030004,1997,6,3,,0,,186,Sri Lanka,6,South Asia,North Eastern,illavalai,9.795275,79.989203
+199706030005,1997,6,3,,0,,45,Colombia,3,South America,Boyaca,Cubara district,7.000556,-72.108333
+199706030006,1997,6,3,,0,,45,Colombia,3,South America,Santander,Sabana de Torres,7.39002,-73.50099
+199706040001,1997,6,4,,0,,92,India,6,South Asia,Jammu and Kashmir,Handwara,34.399281,74.281273
+199706040002,1997,6,4,,0,,95,Iraq,10,Middle East & North Africa,Sulaymaniyah,Sulaymaniyah,35.567009,45.385494
+199706040003,1997,6,4,,0,,110,Lebanon,10,Middle East & North Africa,Beqaa,Qilya,33.436944,35.655556
+199706040004,1997,6,4,,0,,110,Lebanon,10,Middle East & North Africa,South,Jezzine,33.541351,35.586215
+199706040005,1997,6,4,,0,,110,Lebanon,10,Middle East & North Africa,Unknown,Toumat Niha,,
+199706040006,1997,6,4,,0,,130,Mexico,1,North America,Zacatecas,Rio Grande,23.825498,-103.031558
+199706040007,1997,6,4,,0,,130,Mexico,1,North America,Veracruz,Xalapa,19.542624,-96.913744
+199706040008,1997,6,4,,1,6/9/1997,157,Papua New Guinea,12,Australasia & Oceania,Bougainville,Tinputz,-5.55014,155.007525
+199706040009,1997,6,4,,0,,223,Vietnam,5,Southeast Asia,Ho Chi Minh,Ho Chi Minh City,10.82926,106.633072
+199706040010,1997,6,4,,0,,5,Albania,9,Eastern Europe,,Shkallnuer,41.290278,19.516944
+199706040011,1997,6,4,,0,,45,Colombia,3,South America,Antioquia,Medellin,6.242026,-75.564766
+199706050001,1997,6,5,,0,,6,Algeria,10,Middle East & North Africa,Djelfa,Djelfa,34.666667,3.25
+199706050003,1997,6,5,,0,,90,Hungary,9,Eastern Europe,Budapest,Budapest,47.498406,19.040758
+199706050004,1997,6,5,,0,,90,Hungary,9,Eastern Europe,Budapest,Budapest,47.498406,19.040758
+199706050005,1997,6,5,,0,,90,Hungary,9,Eastern Europe,Budapest,Budapest,47.498406,19.040758
